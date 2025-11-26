@@ -19,3 +19,5 @@ Installer les dépendances :
 
 Exécution : 
     python main.py
+
+Si besoin d'un certificat, déposez le dans le dossier TP, décommentez la ligne 42 du fichier WeatherAnalysis.py, et commentez la ligne 41.
